@@ -3,6 +3,7 @@ name: RainbowChat
 version: 0.0.2
 main: NhanAZ\RainbowChat\Main
 api: 5.0.0
+authors: ["NhanAZ"]
 website: https://github.com/NhanAZ-Plugins/RainbowChat
 description: Color each Unicode grapheme in Axolotl-PM player chat.
 ...
