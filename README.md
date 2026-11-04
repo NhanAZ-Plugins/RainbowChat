@@ -1,6 +1,15 @@
 # RainbowChat
 
-RainbowChat gives each Unicode grapheme in an [Axolotl-PM](https://github.com/axolotl-pm/PocketMine-MP) player chat message a randomly selected color. Combining marks and joined emoji remain intact. The plugin uses the existing `PlayerChatEvent` message and has no configuration file or commands.
+Color Unicode graphemes in Axolotl-PM player chat
+
+[![CI](https://github.com/NhanAZ-Plugins/RainbowChat/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/RainbowChat/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/RainbowChat)](https://github.com/NhanAZ-Plugins/RainbowChat/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/RainbowChat)](https://github.com/NhanAZ-Plugins/RainbowChat/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Requirements
 
