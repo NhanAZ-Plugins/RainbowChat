@@ -21,7 +21,7 @@ Other chat plugins can also change `PlayerChatEvent`. Check the combined behavio
 
 ## Development and validation
 
-The [build workflow](.github/workflows/build.yml) tests color insertion and Unicode grapheme preservation against pinned Axolotl-PM source revisions. It then uses [DevTools](https://github.com/NhanAZ/DevTools) to run PHPStan at maximum level, build the PHAR and inspect the artifact. Exact tested revisions are recorded in the workflow and its [GitHub Actions runs](https://github.com/NhanAZ-Plugins/RainbowChat/actions).
+The [build workflow](.github/workflows/build.yml) tests color insertion and Unicode grapheme preservation against pinned Axolotl-PM source revisions. It then uses [DevTools](https://github.com/AxolotlBucketLabs/DevTools) to run PHPStan at maximum level, build the PHAR and inspect the artifact. Exact tested revisions are recorded in the workflow and its [GitHub Actions runs](https://github.com/NhanAZ-Plugins/RainbowChat/actions).
 
 The tests check event message bytes and inserted color codes. Bedrock client rendering has not been verified.
 
